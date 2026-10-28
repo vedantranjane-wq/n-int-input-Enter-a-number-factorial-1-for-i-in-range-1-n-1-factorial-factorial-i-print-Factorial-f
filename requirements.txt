@@ -1,1 +1,6 @@
+Chemical Engineering & Bioengineering Project Dependencies
 
+numpy
+matplotlib
+scipy
+pandas
